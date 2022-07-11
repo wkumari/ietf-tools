@@ -1,8 +1,0 @@
-# Config files. Contain passwords and such
-*.cfg
-
-# Emacs backups.
-*~
-
-# Compiled python
-*.pyc
